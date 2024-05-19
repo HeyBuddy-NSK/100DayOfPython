@@ -31,7 +31,7 @@ This project documents the daily practice and learning exercises in Python. Each
 | 16  | Practice Project - Command Line Interface (Task Manager)        | [Day 16](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_16%20(%20Task%20%20Manager%20CLI%20))              |
 | 17  | Lambda Function ( Anonymous Function in python )                | [Day 17](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_17) |
 | 18  | Python Metaclasses                                              | [Day 18](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_18) |
-| 19  | Python Generators and Yield                                     | [Day 18](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_19) |
+| 19  | Python Generators and Yield                                     | [Day 19](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_19) |
 
 ##  Usage
 
