@@ -34,6 +34,7 @@ This project documents the daily practice and learning exercises in Python. Each
 | 19  | Python Generators and Yield                                     | [Day 19](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_19) |
 | 20  | Python `*args` and `**kwargs`                                   | [Day 20](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_20) |
 | 21  | Python Decorator and Nested / inner Functions                   | [Day 21](https://github.com/HeyBuddy-NSK/100DayOfPython/blob/main/Day_21) |
+| 22  | Data Structures 1 - Arrays and Linked List                      | [Day 22](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_22) |
 
 ##  Usage
 
