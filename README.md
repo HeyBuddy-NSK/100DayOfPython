@@ -35,6 +35,7 @@ This project documents the daily practice and learning exercises in Python. Each
 | 20  | Python `*args` and `**kwargs`                                   | [Day 20](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_20) |
 | 21  | Python Decorator and Nested / inner Functions                   | [Day 21](https://github.com/HeyBuddy-NSK/100DayOfPython/blob/main/Day_21) |
 | 22  | Data Structures 1 - Arrays and Linked List                      | [Day 22](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_22) |
+| 23  | Context Managers in Python : The with Statement                 | [Day 23](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_23) |
 
 ##  Usage
 
