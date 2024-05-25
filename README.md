@@ -36,6 +36,7 @@ This project documents the daily practice and learning exercises in Python. Each
 | 21  | Python Decorator and Nested / inner Functions                   | [Day 21](https://github.com/HeyBuddy-NSK/100DayOfPython/blob/main/Day_21) |
 | 22  | Data Structures 1 - Arrays and Linked List                      | [Day 22](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_22) |
 | 23  | Context Managers in Python : The with Statement                 | [Day 23](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_23) |
+| 24  | Data Structures 2 - Linked List and Types                       | [Day 24 - 25](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_24%20and%2025) |  
 
 ##  Usage
 
