@@ -39,6 +39,7 @@ This project documents the daily practice and learning exercises in Python. Each
 | 24  | Data Structures 2 - Linked List and Types                       | [Day 24 - 25](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_24%20and%2025) |  
 | 25  | Data Structures 3 - Stack and Queue				| [Day 26](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_26) |
 | 26  | Data Structures 4 - Binary Search Tree                          | [Day 27](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_27) |
+| 27  | Data Structures 5 - Heaps (Min and Max)                         | [Day 28](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_28) |
 
 ##  Usage
 
