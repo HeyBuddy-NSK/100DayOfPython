@@ -40,6 +40,7 @@ This project documents the daily practice and learning exercises in Python. Each
 | 25  | Data Structures 3 - Stack and Queue				| [Day 26](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_26) |
 | 26  | Data Structures 4 - Binary Search Tree                          | [Day 27](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_27) |
 | 27  | Data Structures 5 - Heaps (Min and Max)                         | [Day 28](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_28) |
+| 28  | Data Structures 6 - Hash Table                                  | [Day 29](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_29) |
 
 ##  Usage
 
