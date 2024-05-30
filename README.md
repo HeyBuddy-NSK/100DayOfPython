@@ -41,6 +41,7 @@ This project documents the daily practice and learning exercises in Python. Each
 | 26  | Data Structures 4 - Binary Search Tree                          | [Day 27](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_27) |
 | 27  | Data Structures 5 - Heaps (Min and Max)                         | [Day 28](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_28) |
 | 28  | Data Structures 6 - Hash Table                                  | [Day 29](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_29) |
+| 29  | Data Strcutures 7 - Recursion                                   | [Day 30](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_30) |
 
 ##  Usage
 
