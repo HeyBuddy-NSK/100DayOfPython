@@ -36,7 +36,7 @@ This project documents the daily practice and learning exercises in Python. Each
 | 21  | Python Decorator and Nested / inner Functions                   | [Day 21](https://github.com/HeyBuddy-NSK/100DayOfPython/blob/main/Day_21) |
 | 22  | Data Structures 1 - Arrays and Linked List                      | [Day 22](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_22) |
 | 23  | Context Managers in Python : The with Statement                 | [Day 23](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_23) |
-| 24  | Data Structures 2 - Linked List and Types                       | [Day 24 - 25](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_24%20and%2025) |  
+| 24  | Data Structures 2 - Linked List and Types                       | [Day 24-25](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_24%20and%2025) |  
 | 25  | Data Structures 3 - Stack and Queue				| [Day 26](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_26) |
 | 26  | Data Structures 4 - Binary Search Tree                          | [Day 27](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_27) |
 | 27  | Data Structures 5 - Heaps (Min and Max)                         | [Day 28](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_28) |
@@ -44,6 +44,7 @@ This project documents the daily practice and learning exercises in Python. Each
 | 29  | Data Strcutures 7 - Recursion                                   | [Day 30](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_30) |
 | 30  | Algorithms 1 - Linear and Binary Search                         | [Day 31](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_31) |
 | 31  | Data Structures 8 - Graph                                       | [Day 32](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_32) |
+| 32  | Algorithms 2 - BFS and DFS                                      | [Day 33-34](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_33_34)|
 
 ##  Usage
 
