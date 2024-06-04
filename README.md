@@ -45,6 +45,7 @@ This project documents the daily practice and learning exercises in Python. Each
 | 30  | Algorithms 1 - Linear and Binary Search                         | [Day 31](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_31) |
 | 31  | Data Structures 8 - Graph                                       | [Day 32](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_32) |
 | 32  | Algorithms 2 - BFS and DFS                                      | [Day 33-34](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_33_34)|
+| 33  | Algorithms 3 - Bubble sort and Selection sort                   | [Day 35](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_35) |
 
 ##  Usage
 
