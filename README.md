@@ -48,6 +48,7 @@ This project documents the daily practice and learning exercises in Python. Each
 | 33  | Algorithms 3 - Bubble sort and Selection sort                   | [Day 35](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_35) |
 | 34  | Algorithms 4 - Insertion sort and Merge sort                    | [Day 36](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_36) |
 | 35  | Algorithms 5 - Quick sort and Heap sort 			| [Day 37](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_37) |
+| 36  | Algorithms 6 - Shell sort and Counting sort                     | [Day 38](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_38) |
 
 ##  Usage
 
