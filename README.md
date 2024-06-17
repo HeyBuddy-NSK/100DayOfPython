@@ -51,6 +51,8 @@ This project documents the daily practice and learning exercises in Python. Each
 | 36  | Algorithms 6 - Shell sort and Counting sort                     | [Day 38](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_38) |
 | 37  | Algorithms 7 - Radix sort and Bucket sort                       | [Day 39](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_39) |
 | 38  | Creating Python Package - A beginner project                    | [Day 40-43](https://github.com/HeyBuddy-NSK/python-dsalgo/tree/main)      |
+| 39  | Introduction to Flask - Micro Framework                         | [Day 44](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_44) |
+
 ##  Usage
 
 Each day's exercise can be accessed by clicking on the respective link above. The exercises are primarily written in Jupyter Notebook format with some additional Python scripts and projects.
