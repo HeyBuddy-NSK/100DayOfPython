@@ -1,0 +1,14 @@
+<html>
+    <head>
+        {%if title%}
+        <title>{{title}} - nkblog</title>
+        {%else%}
+        <title>intro to inheritance - nkblog</title>
+        {%endif%}
+    </head>
+    <body>
+        <div>nkblog : <a href="/index">Home</a></div>
+        <hr>
+        {%block content%}{%endblock%}
+    </body>
+</html>
