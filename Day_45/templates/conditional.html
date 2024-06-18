@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {%if title%}
+    <title>{{ title }} - nkblog</title>
+    {%else%}
+    <title>Welcome to conditionals - nkblog</title>
+    {%endif%}
+</head>
+<body>
+    <h1>Hello, {{user.username}}!</h1>
+    <p>{{page}}</p>
+</body>
+</html>
