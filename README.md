@@ -53,6 +53,7 @@ This project documents the daily practice and learning exercises in Python. Each
 | 38  | Creating Python Package - A beginner project                    | [Day 40-43](https://github.com/HeyBuddy-NSK/python-dsalgo/tree/main)      |
 | 39  | Introduction to Flask - Micro Framework                         | [Day 44](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_44) |
 | 40  | Python Flask - Templates in Detail                              | [Day 45](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_45) |
+| 41  | Python Flask - Templates in Detail (Bootstrap Integration), Creating Error Pages, Local time and date.      | [Day 46](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_46) |
 
 ##  Usage
 
