@@ -7,6 +7,14 @@
 
 *.code-workspace
 
+#Database
+*/*.db
+*/*.sqlite
+*.sqlite
+*.db
+database/*
+
+
 # Local History for VS Code
 .history/
 
