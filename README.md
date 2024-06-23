@@ -56,6 +56,7 @@ This project documents the daily practice and learning exercises in Python. Each
 | 41  | Python Flask - Templates in Detail (Bootstrap Integration), Creating Error Pages, Local time and date.      | [Day 46](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_46) |
 | 42  | Python Flask - Web Forms                                        | [Day 47](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_47) |
 | 43  | Python Flask - Database Integration                             | [Day 48](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_48) |
+| 44  | Python Flask - Email Integration                                | [Day 49](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_49) |
 
 ##  Usage
 
