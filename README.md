@@ -57,6 +57,7 @@ This project documents the daily practice and learning exercises in Python. Each
 | 42  | Python Flask - Web Forms                                        | [Day 47](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_47) |
 | 43  | Python Flask - Database Integration                             | [Day 48](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_48) |
 | 44  | Python Flask - Email Integration                                | [Day 49](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_49) |
+| 45  | Python Flask - Large Application Stucture                       | [Day 50](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_50) |
 
 ##  Usage
 
