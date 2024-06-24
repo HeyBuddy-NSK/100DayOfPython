@@ -4,6 +4,8 @@ from . import main
 from .. import db
 from .forms import NameForm
 from ..models import User
+from ..email import send_mail
+from flask import current_app as app
 
 @main.route('/',methods=['GET','POST'])
 def index():
@@ -16,7 +18,7 @@ def index():
             db.session.commit()
             session['known'] = False
             if app.config['NKBLOG_ADMIN']:
-                mail.send_mail(app.config['NKBLOG_ADMIN'],'New User', 'Mail/new_user',user=user)
+                send_mail(app.config['NKBLOG_ADMIN'],'New User', 'Mail/new_user',user=user)
                 print("mail sent successfully.")
             else:
                 print("--no admin mail--")
@@ -29,4 +31,4 @@ def index():
         return redirect(url_for('.index'))
     
     return render_template('index.html',form=form,name=session.get('name'),
-                           known=session.gett('known',False),current_time=datetime.utcnow())
+                           known=session.get('known',False),current_time=datetime.utcnow())
