@@ -58,6 +58,9 @@ This project documents the daily practice and learning exercises in Python. Each
 | 43  | Python Flask - Database Integration                             | [Day 48](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_48) |
 | 44  | Python Flask - Email Integration                                | [Day 49](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_49) |
 | 45  | Python Flask - Large Application Stucture                       | [Day 50](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_50) |
+| 46  | Python Flask - User Authentication (Notes)                      | [Day 51](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_51) |
+| 47  | Python Flask - User Roles (Notes)                               | [Day 52](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_52) |
+
 
 ##  Usage
 
