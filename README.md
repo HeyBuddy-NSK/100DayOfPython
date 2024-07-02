@@ -61,6 +61,7 @@ This project documents the daily practice and learning exercises in Python. Each
 | 46  | Python Flask - User Authentication (Notes)                      | [Day 51](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_51) |
 | 47  | Python Flask - User Roles (Notes)                               | [Day 52](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_52) |
 | 48  | Python Flask - User Profiles (Notes)                            | [Day 53](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_53) |
+| 49  | Python Flask - SQLALchemy Basics (Notes)                        | [Day 54-57](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_54-57) |
 
 
 ##  Usage
