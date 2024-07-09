@@ -63,6 +63,7 @@ This project documents the daily practice and learning exercises in Python. Each
 | 48  | Python Flask - User Profiles (Notes)                            | [Day 53](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_53) |
 | 49  | Python Flask - SQLALchemy Basics (Notes)                        | [Day 54-57](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_54-57) |
 | 50  | Python Flask - Social Blog application Progress                 | [Day 58-61](https://github.com/HeyBuddy-NSK/nkblog)                       |
+| 51  | Python - API and RESTful APIs                                   | [Day 64-65](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_64-65) |
 
 
 ##  Usage
