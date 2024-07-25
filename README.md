@@ -64,6 +64,8 @@ This project documents the daily practice and learning exercises in Python. Each
 | 49  | Python Flask - SQLALchemy Basics (Notes)                        | [Day 54-57](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_54-57) |
 | 50  | Python Flask - Social Blog application Progress                 | [Day 58-61](https://github.com/HeyBuddy-NSK/nkblog)                       |
 | 51  | Python - API and RESTful APIs                                   | [Day 64-65](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_64-65) |
+| 52  | Python - Selenium and test cases                                | [Day 75-79](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_75-79) |
+| 53  | Python - Code profiling and error logging                       | [Day 75-79](https://github.com/HeyBuddy-NSK/100DayOfPython/tree/main/Day_80-81) |
 
 
 ##  Usage
